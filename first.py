@@ -1,2 +1,4 @@
 print "Hello World"
-print "Good Night"
+
+msg =  "Good_Night_People"
+print msg
